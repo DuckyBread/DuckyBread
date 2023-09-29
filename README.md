@@ -4,7 +4,7 @@
 I'm Artem. I'm student of NSTU and [School21](https://21-school.ru/). In school my nickname is **silviaju** 👀
 
 # Stack
-<img src="https://img.shields.io/badge/C-bebebe?style=for-the-badge&logo=C&logoColor=991b1e"/> <img src="https://img.shields.io/badge/C++-bebebe?style=for-the-badge&logo=GIT&logoColor=991b1e"/> <img src="https://img.shields.io/badge/Linux-bebebe?style=for-the-badge&logo=Linux&logoColor=991b1e"/> <img src="https://img.shields.io/badge/GIT-bebebe?style=for-the-badge&logo=GIT&logoColor=991b1e"/> <img src="https://img.shields.io/badge/C%2B%2B?style=plastic&logo=gitlab">
+<img src="https://img.shields.io/badge/C-bebebe?style=for-the-badge&logo=C&logoColor=991b1e"/> <img src="https://img.shields.io/badge/C++-bebebe?style=for-the-badge&logo=c-plus-plus&logoColor=991b1e"/> <img src="https://img.shields.io/badge/Linux-bebebe?style=for-the-badge&logo=Linux&logoColor=991b1e"/> <img src="https://img.shields.io/badge/GIT-bebebe?style=for-the-badge&logo=GIT&logoColor=991b1e"/>
 
 # GitHub Stats
 
